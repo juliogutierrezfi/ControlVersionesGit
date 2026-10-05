@@ -1,8 +1,8 @@
 # Introducción
 
 En este tema aprenderemos los conceptos básicos de **Git**, **Markdown** y **GitHub**, herramientas muy utilizadas en el desarrollo de proyectos y en el trabajo en equipo.
+![git](Img/github.jpeg)
 
-![git] (Img/github.jpeg)
 # 1. Sistemas de control de versiones: Git
 
 **Git** es un sistema de control de versiones que permite registrar y gestionar los cambios realizados en los archivos de un proyecto. Gracias a Git, podemos volver a versiones anteriores y trabajar con otras personas de forma organizada.
